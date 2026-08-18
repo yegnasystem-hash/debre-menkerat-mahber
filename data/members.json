@@ -5,10 +5,9 @@
     { "role": "ጸሐፊ", "name": "ዲ/ን እንቻለው አሞኘ", "phone": "09...", "desc": "የማህበሩ ጸሐፊ", "image": "assets/images/en.png" },
     { "role": "ፋይናንስ አስተዳደር", "name": "መለሰ ጋሻው", "phone": "09...", "desc": "የሒሳብ ሹም/ፋይናንስ", "image": "assets/images/ml.png" },
     { "role": "ግዢ ኮሚቴ", "name": "ተገኑ ጤናው", "phone": "09...", "desc": "የግዢ ክፍለ አካል", "image": "assets/images/tg.png" },
-    { "role": "አባላት ክትትል", "name": "መሰረት መልካሙ", "phone": "09...", "desc": "የአባላት ክትትል ኮሚቴ", "image": "assets/images/ms.png" },
     { "role": "ኦዲት ኮሚቴ", "name": "ዲ/ን እውነቱ ታምሩ", "phone": "09...", "desc": "የኦዲትና ቁጥጥር ኮሚቴ", "image": "assets/images/ew.png" },
     { "role": "ዕቅድ ዝግጂትና ፕሮጀክት", "name": "መ/ር በረከት ይግረም", "phone": "09...", "desc": "የዕቅድና ልማት ኮሚቴ", "image": "assets/images/br.png" },
-    { "role": "አባላት ክትትል", "name": "አማረ መርሻ", "phone": "09...", "desc": "አባላት ክትትል", "image": "assets/images/mr.png" },
+    { "role": "አባላት ክትትል", "name": "አማረ መርሻ", "phone": "09...", "desc": "አባላት ክትትል", "image": "assets/images/am.png" },
     { "role": "ህዝብ ግንኙነት", "name": "ጋዜጠኛ ሃ/ጊዮርጊስ አባይ", "phone": "09...", "desc": "ህዝብ ግንኙነትና ሚዲያ ክፍል", "image": "assets/images/mr.png" },
     
     { "role": "በምክ/ማዕረግ የሒሳብ ሹም/ፋይናንስ", "name": "ገበየ ሻውል", "phone": "09...", "desc": "በፋይናንስ ስር", "image": "assets/images/gb.png" },
