@@ -6,7 +6,7 @@
     { "role": "ፋይናንስ አስተዳደር", "name": "መለሰ ጋሻው", "phone": "09...", "desc": "የሒሳብ ሹም/ፋይናንስ", "image": "assets/images/ml.png" },
     { "role": "ግዢ ኮሚቴ", "name": "ተገኑ ጤናው", "phone": "09...", "desc": "የግዢ ክፍለ አካል", "image": "assets/images/tg.png" },
     { "role": "ኦዲት ኮሚቴ", "name": "ዲ/ን እውነቱ ታምሩ", "phone": "09...", "desc": "የኦዲትና ቁጥጥር ኮሚቴ", "image": "assets/images/ew.png" },
-    { "role": "ዕቅድ ዝግጂትና ፕሮጀክት", "name": "መ/ር በረከት ይግረም", "phone": "09...", "desc": "የዕቅድና ልማት ኮሚቴ", "image": "assets/images/br.png" },
+    { "role": "ዕቅድ ዝግጂትና ፕሮጀክት", "name": "መ/ር በረከት ይግረም", "phone": "09...", "desc": "የዕቅድና ልማት ኮሚቴ", "image": "assets/images/bry.png" },
     { "role": "አባላት ክትትል", "name": "አማረ መርሻ", "phone": "09...", "desc": "አባላት ክትትል", "image": "assets/images/am.png" },
     { "role": "ህዝብ ግንኙነት", "name": "ጋዜጠኛ ሃ/ጊዮርጊስ አባይ", "phone": "09...", "desc": "ህዝብ ግንኙነትና ሚዲያ ክፍል", "image": "assets/images/mr.png" },
     
