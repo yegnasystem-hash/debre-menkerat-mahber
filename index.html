@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="am">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>የደብረ መንከራት ድቦ የኪዳነ ምህረት ገዳምና አካባቢው መንፈሳዊ ማህበር</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header>
+    <img src="assets/images/logo.svg" alt="ማህበሩ ሎጎ" class="logo">
+    <h1>የደብረ መንከራት ድቦ የኪዳነ ምህረት ገዳምና አካባቢው መንፈሳዊ ማህበር</h1>
+    <nav>
+      <a href="#about">ዓላማና ራዕይ</a>
+      <a href="#committee">ኮሚቴዎች</a>
+      <a href="#members">የአባላት ዝርዝር</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    
+    <!-- ዓላማና ራዕይ section -->
+    <section id="about" class="card" style="text-align: left; margin-bottom: 30px;">
+      <h2>ዓላማ፣ ራዕይና ተልዕኮ</h2>
+      <hr>
+      <h3>ራዕይ</h3>
+      <p id="vision">እዚህ ጋር የማህበሩን ራዕይ ይሙሉ...</p>
+      
+      <h3>ተልዕኮ</h3>
+      <p id="mission">እዚህ ጋር የማህበሩን ተልዕኮ ይሙሉ...</p>
+      
+      <h3>ዓላማ</h3>
+      <p id="goal">እዚህ ጋር የማህበሩን ዋና ዋና ዓላማዎች ይሙሉ...</p>
+    </section>
+
+    <!-- ኮሚቴዎች section -->
+    <section id="committee">
+      <h2>የማህበሩ ኮሚቴዎች</h2>
+      <div id="committee-container" class="card-grid"></div>
+    </section>
+
+    <!-- የአባላት ዝርዝር section -->
+    <section id="members" style="margin-top: 40px;">
+      <h2>የማህበሩ አባላት ዝርዝር (ጠቅላላ፡ <span id="total-count">0</span>)</h2>
+      <input type="text" id="searchInput" class="search-box" placeholder="በስም ወይም በስልክ ቁጥር ይፈልጉ...">
+      
+      <table>
+        <thead>
+          <tr>
+            <th>ተ.ቁ</th>
+            <th>ሙሉ ስም</th>
+            <th>ስልክ ቁጥር</th>
+          </tr>
+        </thead>
+        <tbody id="members-table-body">
+          <!-- Dynamically populated -->
+        </tbody>
+      </table>
+    </section>
+
+  </div>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
